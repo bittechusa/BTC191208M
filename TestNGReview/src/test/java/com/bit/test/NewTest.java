@@ -52,7 +52,7 @@ public class NewTest {
 			cap.setBrowserName("chrome");
 			cap.setPlatform(Platform.ANY);
 			op.merge(cap);
-			dr=new RemoteWebDriver(new URL("http://192.168.86.31:4444/wd/hub"), op);
+			//dr=new RemoteWebDriver(new URL("http://192.168.86.31:4444/wd/hub"), op);
 		}
 	}else if(br.equals("firefox"))
 	{
@@ -66,7 +66,7 @@ public class NewTest {
 			cap.setBrowserName("chrome");
 			cap.setPlatform(Platform.ANY);
 			op.merge(cap);
-			dr=new RemoteWebDriver(new URL("http://192.168.86.31:4444/wd/hub"), op);
+			//dr=new RemoteWebDriver(new URL("http://192.168.86.31:4444/wd/hub"), op);
 		}
 	}
 	  log.info("opened browser");
@@ -82,7 +82,7 @@ public class NewTest {
 		  System.out.println(r.getTestName()+" is succed");
 	  }case ITestResult.FAILURE:
 	  {
-		  screenshot();
+		 // screenshot();
 		  System.out.println(r.getTestName()+" is failed");
 	  }case ITestResult.SKIP:
 	  {
@@ -91,14 +91,14 @@ public class NewTest {
 	  }
   }
 
-  public void public void screenshot() throws IOException {
-		File f=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-		Files.copy(f, new File(""));
-	}() throws IOException {
-		File f=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-		Files.copy(f, new File(""));
-	}
-  
+//  public void public void screenshot() throws IOException {
+//		File f=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+//		Files.copy(f, new File(""));
+//	}() throws IOException {
+//		File f=((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+//		Files.copy(f, new File(""));
+//	}
+//  
   @BeforeClass
   public void beforeClass() {
 	  log.info("opened browser here if not open in before method");
