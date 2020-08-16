@@ -1,0 +1,58 @@
+2020-07-11 13:08:05,896 INFO  [NewTest] config file loaded 
+2020-07-11 13:08:05,900 INFO  [NewTest] reporting file is loaded 
+2020-07-11 13:08:05,904 INFO  [NewTest] opened browser here if not open in before method 
+2020-07-11 13:08:05,959 INFO  [NewTest] reporting file is loaded 
+2020-07-11 13:08:05,960 INFO  [NewTest] opened browser here if not open in before method 
+2020-07-11 13:08:05,964 INFO  [NewTest] opened browser 
+2020-07-11 13:08:05,966 INFO  [NewTest] closed browser 
+2020-07-11 13:08:05,966 INFO  [NewTest] opened browser 
+2020-07-11 13:08:05,967 INFO  [RegressionTest] passed 
+2020-07-11 13:08:05,968 INFO  [NewTest] closed browser 
+2020-07-11 13:11:18,690 FATAL [RegressionTest] login credantial error 
+2020-07-12 12:32:00,253 FATAL [RegressionTest] login credantial error 
+2020-07-12 12:32:00,261 ERROR [RegressionTest] failed 
+2020-07-12 13:06:52,761 INFO  [NewTest] config file loaded 
+2020-07-12 13:06:52,765 INFO  [NewTest] reporting file is loaded 
+2020-07-12 13:06:52,769 INFO  [NewTest] opened browser here if not open in before method 
+2020-07-12 13:06:52,827 INFO  [NewTest] reporting file is loaded 
+2020-07-12 13:06:52,828 INFO  [NewTest] opened browser here if not open in before method 
+2020-07-12 13:06:52,832 INFO  [NewTest] opened browser 
+2020-07-12 13:06:52,833 FATAL [RegressionTest] login credantial error 
+2020-07-12 13:06:52,834 INFO  [NewTest] closed browser 
+2020-07-12 13:06:52,835 INFO  [NewTest] opened browser 
+2020-07-12 13:06:52,836 ERROR [RegressionTest] failed 
+2020-07-12 13:06:52,837 INFO  [NewTest] closed browser 
+2020-07-12 13:08:37,627 INFO  [NewTest] config file loaded 
+2020-07-12 13:08:37,630 INFO  [NewTest] reporting file is loaded 
+2020-07-12 13:08:37,651 INFO  [NewTest] reporting file is loaded 
+2020-07-12 13:08:37,654 INFO  [NewTest] opened browser here if not open in before method 
+2020-07-12 13:08:37,659 INFO  [NewTest] opened browser 
+2020-07-12 13:08:37,663 FATAL [RegressionTest] login credantial error 
+2020-07-12 13:08:37,664 INFO  [NewTest] closed browser 
+2020-07-12 13:08:37,665 INFO  [NewTest] opened browser 
+2020-07-12 13:08:37,666 ERROR [RegressionTest] failed 
+2020-07-12 13:08:37,667 INFO  [NewTest] closed browser 
+2020-07-12 13:10:42,450 INFO  [NewTest] config file loaded 
+2020-07-12 13:10:42,453 INFO  [NewTest] reporting file is loaded 
+2020-07-12 13:10:42,471 INFO  [NewTest] reporting file is loaded 
+2020-07-12 13:10:42,473 INFO  [NewTest] opened browser here if not open in before method 
+2020-07-12 13:10:42,479 INFO  [NewTest] opened browser 
+2020-07-12 13:10:42,482 FATAL [RegressionTest] login credantial error 
+2020-07-12 13:10:42,484 INFO  [NewTest] closed browser 
+2020-07-12 13:10:42,484 INFO  [NewTest] opened browser 
+2020-07-12 13:10:42,485 ERROR [RegressionTest] failed 
+2020-07-12 13:10:42,487 INFO  [NewTest] closed browser 
+2020-07-12 13:12:12,786 INFO  [NewTest] config file loaded 
+2020-07-12 13:12:12,790 INFO  [NewTest] reporting file is loaded 
+2020-07-12 13:12:12,795 INFO  [NewTest] opened browser here if not open in before method 
+2020-07-12 13:12:12,850 INFO  [NewTest] reporting file is loaded 
+2020-07-12 13:12:12,850 INFO  [NewTest] opened browser here if not open in before method 
+2020-07-12 13:12:12,856 INFO  [NewTest] opened browser 
+2020-07-12 13:12:12,857 FATAL [RegressionTest] login credantial error 
+2020-07-12 13:12:12,859 INFO  [NewTest] closed browser 
+2020-07-12 13:12:12,859 INFO  [NewTest] opened browser 
+2020-07-12 13:12:12,862 ERROR [RegressionTest] failed 
+2020-07-12 13:12:12,864 INFO  [NewTest] closed browser 
+2020-07-18 13:47:11,584 INFO  [NewTest] config file loaded 
+2020-07-18 13:47:11,588 INFO  [NewTest] reporting file is loaded 
+2020-07-18 13:47:11,595 INFO  [NewTest] opened browser here if not open in before method 
